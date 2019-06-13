@@ -1,0 +1,25 @@
+2019/06/06 22:23:05.423 -> Valami baj van a MySQL Connection (híd) létrehozásakor.java.sql.SQLNonTransientConnectionException: Public Key Retrieval is not allowed
+2019/06/06 22:23:29.471 -> Valami baj van a MySQL Connection (híd) létrehozásakor.java.sql.SQLNonTransientConnectionException: Public Key Retrieval is not allowed
+2019/06/06 22:23:55.825 -> A híd a MySQL adatbáziskezelővel létrejött
+2019/06/06 22:24:00.891 -> A kiválsztott tétel (olaj) nem törölhető, mert szerepel egy másik táblában is.java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`kamra`.`beszerzes`, CONSTRAINT `alap_id` FOREIGN KEY (`alap_id`) REFERENCES `alapanyag` (`id`))
+2019/06/06 22:24:08.689 -> A kiválsztott tétel (kenyér) nem törölhető, mert szerepel egy másik táblában is.java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`kamra`.`beszerzes`, CONSTRAINT `alap_id` FOREIGN KEY (`alap_id`) REFERENCES `alapanyag` (`id`))
+2019/06/06 22:26:23.501 -> A híd a MySQL adatbáziskezelővel létrejött
+2019/06/06 22:26:27.369 -> A kiválsztott tétel (olaj) nem törölhető, mert szerepel egy másik táblában is.java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`kamra`.`beszerzes`, CONSTRAINT `alap_id` FOREIGN KEY (`alap_id`) REFERENCES `alapanyag` (`id`))
+2019/06/06 22:27:36.151 -> A híd a MySQL adatbáziskezelővel létrejött
+2019/06/06 22:27:40.008 -> A kiválsztott tétel (zsír) nem törölhető, mert szerepel egy másik táblában is.java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`kamra`.`beszerzes`, CONSTRAINT `alap_id` FOREIGN KEY (`alap_id`) REFERENCES `alapanyag` (`id`))
+2019/06/06 22:28:20.516 -> A híd a MySQL adatbáziskezelővel létrejött
+2019/06/06 22:28:26.226 -> A kiválsztott tétel (olaj) nem törölhető, mert szerepel egy másik táblában is.java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`kamra`.`beszerzes`, CONSTRAINT `alap_id` FOREIGN KEY (`alap_id`) REFERENCES `alapanyag` (`id`))
+2019/06/06 22:29:14.287 -> A híd a MySQL adatbáziskezelővel létrejött
+2019/06/06 22:29:21.908 -> A kiválsztott tétel (olaj) nem törölhető, mert szerepel egy másik táblában is.java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`kamra`.`beszerzes`, CONSTRAINT `alap_id` FOREIGN KEY (`alap_id`) REFERENCES `alapanyag` (`id`))
+2019/06/06 22:30:10.846 -> A híd a MySQL adatbáziskezelővel létrejött
+2019/06/06 22:30:14.815 -> A kiválsztott tétel (cukor) nem törölhető, 
+mert szerepel egy másik táblában is.java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`kamra`.`beszerzes`, CONSTRAINT `alap_id` FOREIGN KEY (`alap_id`) REFERENCES `alapanyag` (`id`))
+2019/06/06 22:31:50.411 -> A híd a MySQL adatbáziskezelővel létrejött
+2019/06/06 22:31:55.783 -> A kiválsztott tétel (tej) nem törölhető, 
+mert szerepel egy másik táblában is.java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`kamra`.`beszerzes`, CONSTRAINT `alap_id` FOREIGN KEY (`alap_id`) REFERENCES `alapanyag` (`id`))
+2019/06/06 22:32:32.879 -> A híd a MySQL adatbáziskezelővel létrejött
+2019/06/06 22:32:37.515 -> A kiválsztott tétel (olaj) nem törölhető, 
+mert szerepel egy másik táblában is.java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`kamra`.`beszerzes`, CONSTRAINT `alap_id` FOREIGN KEY (`alap_id`) REFERENCES `alapanyag` (`id`))
+2019/06/12 23:43:48.276 -> A híd a MySQL adatbáziskezelővel létrejött
+2019/06/12 23:43:49.289 -> Hiba az Etel tábla lekérdezésekor.java.sql.SQLException: Column 'etel_ar' not found.
+2019/06/12 23:44:58.100 -> A híd a MySQL adatbáziskezelővel létrejött
